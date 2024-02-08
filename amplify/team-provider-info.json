@@ -1,0 +1,20 @@
+{
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-amplify58ba0f263fd54-staging-235553-authRole",
+      "UnauthRoleArn": "arn:aws:iam::516595419611:role/amplify-amplify58ba0f263fd54-staging-235553-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::516595419611:role/amplify-amplify58ba0f263fd54-staging-235553-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-amplify58ba0f263fd54-staging-235553-deployment",
+      "UnauthRoleName": "amplify-amplify58ba0f263fd54-staging-235553-unauthRole",
+      "StackName": "amplify-amplify58ba0f263fd54-staging-235553",
+      "StackId": "arn:aws:cloudformation:us-east-1:516595419611:stack/amplify-amplify58ba0f263fd54-staging-235553/ee8c8790-c3b8-11ee-b13f-0e5bb964081d",
+      "AmplifyAppId": "d22gj2f7gx981b"
+    },
+    "categories": {
+      "auth": {
+        "fitnessreactappb6145680": {}
+      }
+    }
+  }
+}
